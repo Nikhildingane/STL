@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574271644 source:c:\users\nick\documents\marvellous\ppa\demo\main.cpp
+	<iostream>
+	"STLdll.h"
+
+1574271828 c:\users\nick\documents\marvellous\ppa\demo\stldll.h
+	<iostream>
+
